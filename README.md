@@ -76,7 +76,7 @@
   </a>
 </p>
 
-## 🌐 Socials & Contact
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://t.me/mr_nobody">
@@ -108,8 +108,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Old-hacker01]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Old-hacker01]&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Old-hacker01&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-hacker01&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[yourusername]&theme=dark" alt="GitHub Streak"/>
 </p>
 
@@ -124,9 +124,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 🎧 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/[yourspotifyid])
 
 ## 📝 Latest Blog Posts
 
