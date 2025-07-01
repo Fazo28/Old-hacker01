@@ -2,7 +2,7 @@
 <h3 align="center">Exploring the depths of cybersecurity, programming & automation.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVp3kM8uXjZG6I/giphy.gif" width="500" alt="Typing GIF">
+  <img src="https://openai.com/sora/?shareId=14.mp4" width="500" alt="Typing GIF">
 </p>
 
 ---
