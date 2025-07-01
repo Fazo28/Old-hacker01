@@ -23,16 +23,16 @@
 ### 📱 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/YOUR_USERNAME" target="_blank">
+  <a href="https://t.me/mr_nobody" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+  <a href="https://wa.me/+255675007732" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://youtube.com/YOUR_CHANNEL" target="_blank">
+  <a href="https://youtube.com/Fazo_28" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB" target="_blank">
+  <a href="https://github.com/Old-hacker01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.buymeacoffee.com/YOUR_LINK" target="_blank">
@@ -56,4 +56,3 @@
 
 > “Hack the planet 🌍 — But ethically.”  
 > — *Ethical Hacker from Tz*
-> ZYNIX TECHNOLOGY
