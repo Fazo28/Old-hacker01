@@ -39,9 +39,6 @@
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
   </a>
-  <a href="https://www.burpsuite.com/" target="_blank" rel="noreferrer">
-    <img src="https://portswigger.net/burp/favicon.ico" alt="burpsuite" width="40" height="40"/>
-  </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
     <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="40" height="40"/>
   </a>
@@ -91,9 +88,7 @@
   <a href="https://github.com/Old-hacker01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/Fazo28">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
   <a href="https://twitter.com/Fazo28_tz">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
