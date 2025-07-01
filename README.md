@@ -113,17 +113,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[yourusername]&theme=dark" alt="GitHub Streak"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?usernameO=ld-hacker01&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 
 ## 📝 Latest Blog Posts
 
