@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Fazo
-### Ethical Hacker | Cybersecurity  | Bug Bounty Hunter | from Tanzania 🇹🇿
+### Ethical Hacker | Cybersecurity  | Bug Bounty Hunter
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&width=435&lines=Ethical+Hacker+from+Tanzania;Cybersecurity+Enthusiast;Open+Source+Contributor;Bug+Bounty+Hunter;CTF+Player)](https://git.io/typing-svg)
 
